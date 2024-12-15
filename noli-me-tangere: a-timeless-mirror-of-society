@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noli Me Tangere: A Timeless Mirror of Society</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2rem auto; max-width: 800px; line-height: 1.6; }
+        h1, h2 { color: #2c3e50; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Noli Me Tangere: A Timeless Mirror of Society</h1>
+    <p>When Jos\u00e9 Rizal penned <em>Noli Me Tangere</em>, he envisioned a novel that would...</p>
+    <h2>The Social Struggles: Then and Now</h2>
+    <p>One of the most striking themes in <em>Noli Me Tangere</em> is the systemic inequality...</p>
+    <!-- Add the rest of your content here -->
+    <footer>
+        <p>&copy; 2024 Reflections on Rizal. All rights reserved.</p>
+    </footer>
+</body>
+</html>
